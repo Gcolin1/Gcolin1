@@ -2,8 +2,9 @@
 
 
 - 💻 em busca do primeiro emprego como desenvolvedor
-- 🔭 estudando para a area de front-end 
+- 🔭 estudando para ser desenvolvedor full-stack
 - 🌱 estudando java
+- 📚 estudando node
 
 <div align="center">
   <a href="https://github.com/Gcolin1">
