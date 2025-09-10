@@ -1,7 +1,5 @@
 ### Olá eu sou o Guilherme colin
 
-
-- 💻 em busca do primeiro emprego como desenvolvedor
 - 🔭 estudando para ser desenvolvedor full-stack
 - 🌱 estudando java
 - 📚 estudando node
